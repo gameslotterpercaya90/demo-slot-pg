@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle demo-slot-pg",
+        "command": "demo-slot-pg:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "demo-slot-pg",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "demo-slot-pg:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

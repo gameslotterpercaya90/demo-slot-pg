@@ -1,0 +1,18 @@
+{
+  "name": "demo-slot-pg",
+  "main": "./lib/demo-slot-pg",
+  "version": "1.0.0",
+  "description": "Hasil Hitungan Hasil Hitungan Demo Slot Pg Viral 2022",
+  "keywords": ["microgaming","slot toto","agen toto play slot","agentotoplay slot","toptrend gaming","slot online","slot online cq9","situs slot online terpercaya","agen toto play"],
+
+  "activationCommands": {
+    "atom-workspace": "demo-slot-pg:toggle"
+  },
+  "repository": "https://github.com/gameslotterpercaya90/demo-slot-pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
